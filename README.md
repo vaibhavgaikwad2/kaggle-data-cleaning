@@ -1,2 +1,31 @@
-# kaggle-data-cleaning
-This repository showcases my journey of tackling various data cleaning and analysis projects on Kaggle! Each project involves transforming raw data into clean, usable formats for analysis.
+# 🧹 Kaggle Data Cleaning
+
+A collection of my data cleaning and preprocessing notebooks using Kaggle datasets.
+
+---
+
+## 📊 What’s Inside
+
+- 🧼 Missing value handling  
+- 🔄 Data type conversion  
+- 🏷️ Label encoding  
+- 🔍 Data inspection & cleanup  
+
+---
+
+## 🛠️ Tools
+
+- Python 🐍  
+- Pandas 🐼  
+- NumPy  
+- Scikit-learn  
+- Jupyter Notebook 📓  
+
+---
+
+## 🚀 Author
+
+**Vaibhav**  
+_Aspiring AI ML Engineer_  
+
+
